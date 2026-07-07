@@ -321,11 +321,12 @@ export const PRICING = {
     price: "$0",
     period: "forever",
     features: [
-      "Limited signal visibility (pair name only)",
+      "Encrypted signal visibility (pair name only)",
       "Full community & channel access",
       "Live win rate & Fear/Greed Index",
       "Complete trade history",
       "Basic market analysis",
+      "Referrals & leaderboard",
     ],
   },
   premium: {
@@ -334,7 +335,7 @@ export const PRICING = {
     period: "/month",
     coupon: "FALCONPRO24",
     features: [
-      "4–6 unlimited full signals daily",
+      "4–6 Well-analyzed signals daily",
       "Exact entry, stop loss & take profit",
       "Dynamic leverage per signal",
       "2% fixed risk management built in",
